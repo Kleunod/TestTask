@@ -1,0 +1,7 @@
+*.log
+.pytest_cache/
+.pytest_cache
+*__pycache__
+tests/__pycache__ 
+tests/api/__pycache__
+tests/ui/__pycache__
